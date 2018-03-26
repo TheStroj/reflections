@@ -17,10 +17,17 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-	
+	By using the command git diff, you can view the differences between the
+	files in the working directory and in the staging area. By using the command
+	git diff --staged, you can view the differences between the files in the
+	staging area and in the latest commit. Using these two commands, you can
+	check all the changes to be committed, and verify that you have one commit
+	per logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	
 
 How do the diagrams help you visualize the branch structure?
 
