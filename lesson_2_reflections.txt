@@ -27,9 +27,15 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	
+	Branches would be helpful when trying out experimental features or creating
+	multiple versions of code that you would want to save concurrently. Branches
+	would enable that by having multiple version histories saved separate from
+	one another, which means that you could check a version history for each of
+	the saved branches separately.
 
 How do the diagrams help you visualize the branch structure?
+
+	
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
