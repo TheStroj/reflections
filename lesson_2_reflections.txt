@@ -42,7 +42,14 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-	
+	The result is a new commit which introduces all the changes from the second
+	branch to the first branch. Previous versions from both branches are then
+	available with the git log command, and they are displayed chronologically.
+	We represent it in the diagram as two paths joining together in the new
+	commit node because the branches are joined and this new commit has access
+	to the version history of both branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	
