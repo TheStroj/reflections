@@ -29,14 +29,17 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-	
+	By having a copy, you can track changes that were done on the remote after you
+	started working on the repository, which is common when collaborating with other
+	people. By doing this, you can see whether there will be conflicts when trying
+	to pull / merge the latest version of remote.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
 	
 
 When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+master? What benefits does each approach have?
 
 	
