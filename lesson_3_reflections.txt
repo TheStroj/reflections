@@ -37,7 +37,9 @@ stored locally?
 How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
-	
+	If I wouldn't be using Git or GitHub, I would probably use another version
+	control approach, such as SVN. However, using Git and GitHub is both faster
+	and simpler.
 
 When would you want to make changes in a separate branch rather than directly in
 master? What benefits does each approach have?
