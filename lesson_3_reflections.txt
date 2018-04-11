@@ -44,4 +44,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master? What benefits does each approach have?
 
-	
+	I would make changes in a separate branch when I would want to make other
+	people collaborating on the project aware of the changes and when I would want
+	their feedback on the changes. This approach has the benefit of all the people
+	collaborating on the project giving feedback regarding the changes, whereas the
+	benefit of making changes directly to master is that it is faster, as you only
+	need to pull and push the master branch.
